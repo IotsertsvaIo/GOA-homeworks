@@ -10,7 +10,7 @@ personal_info.append(age)
 personal_info.append(adress)
 
 print(personal_info[0:2])
-print(personal_info[2:3])
+print(personal_info[1:3])
 
 
 num = int(input("please enter negative number: "))
