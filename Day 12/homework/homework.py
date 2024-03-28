@@ -21,4 +21,12 @@ for i in range(num,0):
     print(i)
 
 
+film = ["avengers", "titanic", "ball", "spider-man"]
+
+print(film[0:4])
+
+film = ["avengers", "titanic", "ball", "spider-man"]
+print(film[-1:-3])
+
+
 
